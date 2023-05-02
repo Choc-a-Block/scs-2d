@@ -1,9 +1,4 @@
-# Simple Constraint Solver Demo
-
-This is a simple demo project for the [Simple 2D Constraint Solver System](https://github.com/ange-yaghi/simple-2d-constraint-solver).
-
-![Alt text](docs/public/screenshots/screenshot_2022_01_32.png?raw=true)
-
+# Simple Constraint Solver
 ## Steps to Clone and Build
 
 **Note: this project currently only builds on Windows!**
